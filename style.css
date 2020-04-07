@@ -61,7 +61,7 @@
 }
 
 .keys .column span {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .keys .column span:hover, .operators span:hover, .clearBtn:hover {
@@ -70,7 +70,7 @@
 
 .operators {
   width: 20%;
-  font-size: 18px;
+  font-size: 30px;
   background-color: #FF9500;
 }
 
